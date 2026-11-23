@@ -1,0 +1,16 @@
+# Compiled executable
+*.exe
+
+# Object files
+*.o
+
+# Generated database files
+vehicle_service_data.dat
+vehicle_service_data.tmp
+vehicle_service_data.bak
+
+# Generated invoices
+invoice_*.txt
+
+# VS Code workspace settings
+.vscode/
